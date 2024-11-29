@@ -33,3 +33,16 @@ CREATE TABLE IF NOT EXISTS students (
     class_id INT NULL,
     FOREIGN KEY (class_id) REFERENCES classes(id) ON DELETE SET NULL
 );
+
+
+-- Admin
+INSERT INTO users (username, password, role) VALUES
+('admin', MD5('admin'), 'admin');
+
+-- Enseignant
+INSERT INTO users (username, password, role) VALUES
+('teacher', MD5('teacher'), 'teacher');
+
+-- Élève
+INSERT INTO users (username, password, role) VALUES
+('student', MD5('student'), 'student');
