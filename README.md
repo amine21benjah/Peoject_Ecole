@@ -1,6 +1,8 @@
 # My Project
 
 Welcome to **My Project**, a lightweight web application template designed to help you quickly build web-based tools or projects with a clean and simple interface.
+The JIRA ( Project / Modelisation diagrams / Sprints ) FOR MEMBERS 🔒:https://benjahamine7.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?selectedIssue=SCRUM-1
+A full-stack web application for Gestion Ecole ordering and management, built with PHP and MySQL.
 
 ---
 
@@ -98,6 +100,6 @@ This project is licensed under the [MIT License](LICENSE).
 ## 📧 Contact
 
 For questions or suggestions, feel free to reach out:
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- GitHub: [Your Username](https://github.com/your-username)
+- Email: [your-email@example.com](benjahamine7@gmail.com)
+- GitHub: [Your Username](https://github.com/amine21benjah)
 "project gestion des ecoles privee "
