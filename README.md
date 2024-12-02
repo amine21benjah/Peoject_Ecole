@@ -67,7 +67,8 @@ The project's appearance is managed through the `style.css` file. Key features i
 - **Interactive Buttons**: Styled with hover effects for enhanced user interaction.
 
 To customize the appearance, edit `style.css` to adjust the layout, colors, or fonts.
-<img width="957" alt="{DE1056B2-DFDF-4B0F-B86D-36116D408BA7}" src="https://github.com/user-attachments/assets/49242c7e-bef8-4127-8de2-7259affa52de">
+<img width="702" alt="{22738DBE-D3B1-4537-ABF2-9D5BD1B3DACA}" src="https://github.com/user-attachments/assets/18dca815-f639-4ff3-bcd8-7d29e387118c">
+
 
 <img width="697" alt="{AFCFD354-F2E7-41B2-889A-A7FB0EE98E47}" src="https://github.com/user-attachments/assets/479eb22c-15bc-47bb-a601-e317ee92f3c0">
 
