@@ -100,6 +100,6 @@ This project is licensed under the [MIT License](LICENSE).
 ## 📧 Contact
 
 For questions or suggestions, feel free to reach out:
-- Email: [your-email@example.com](benjahamine7@gmail.com)
-- GitHub: [Your Username](https://github.com/amine21benjah)
+- Email:benjahamine7@gmail.com
+- GitHub: https://github.com/amine21benjah
 "project gestion des ecoles privee "
