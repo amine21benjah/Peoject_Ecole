@@ -105,6 +105,10 @@ This project is licensed under the [MIT License](LICENSE).
 ## 📧 Contact
 
 For questions or suggestions, feel free to reach out:
-- Email:benjahamine7@gmail.com,ioubenazha@gmail.com,mohamedoujahal1@gmail.com,mizooooxkaddouri@gmail.com
+- Email:
+- benjahamine7@gmail.com,
+- ioubenazha@gmail.com,
+- mohamedoujahal1@gmail.com,m
+- izooooxkaddouri@gmail.com
 - GitHub: https://github.com/amine21benjah
 "project gestion des ecoles privee "
