@@ -1,0 +1,28 @@
+stages:
+  - init
+  - tests
+  - quality
+
+init-job:
+  stage: init
+  script:
+    - echo "Initialisation du pipeline"
+
+unit-tests-job:
+  stage: tests
+  image: php:8.2-cli
+  before_script:
+    - apt-get update && apt-get install -y git zip unzip
+    - curl -sS https://getcomposer.org/installer | php
+    - php composer.phar install
+  script:
+    - vendor/bin/phpunit --coverage-clover=phpunit-coverage.xml
+  artifacts:
+    paths:
+      - phpunit-coverage.xml
+
+quality-job:
+  stage: quality
+  image: sonarsource/sonar-scanner-cli:latest
+  script:
+    - sonar-scanner -Dsonar.projectKey=gestion_bibliotheque
