@@ -68,9 +68,9 @@ The project's appearance is managed through the `style.css` file. Key features i
 
 To customize the appearance, edit `style.css` to adjust the layout, colors, or fonts.
 <h1>👤 Default Admin Credentials</h1>
-Username: admin Password: admin
-Username: student Password: student
-Username: teacher Password: teacher
+Username: admin Password: admin <br>
+Username: student Password: student<br>
+Username: teacher Password: teacher<br>
 
  <h1 > 📱 Screenshots</h1>
 
