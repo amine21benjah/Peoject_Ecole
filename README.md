@@ -17,10 +17,26 @@ A full-stack web application for Gestion Ecole ordering and management, built wi
 
 ## 📁 Project Structure
 
-```
+├── data.sql        # Database file
 ├── index.php       # Main entry point of the application
 ├── style.css       # Core stylesheet for styling the interface
 ```
+
+---
+
+<h1>🛠️ Technologies Used</h1>
+Frontend: HTML5, Bootstrap
+Backend: PHP
+Database: MySQL
+Additional: PDO (PHP Data Objects) for database operations
+
+
+---
+<h1>📋 Prerequisites</h1>
+PHP >= 8.1
+MySQL >= 5.7
+Web server (XAMPP/Nginx)
+Web browser
 
 ---
 
@@ -34,16 +50,27 @@ Follow these steps to set up the project on your local machine:
 
 ### Steps
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   bash
+   git clone https://github.com/amine21benjah/Peoject_Ecole
    ```
 
 2. Place the project folder in your web server's document root.
+Create a new database named estion_ecole
+Import the data.sql file from the project root
 
-3. Start the server and navigate to the application:
+
+3. Configure database connection
+Open components/index.php
+Update database credentials if needed
+
+
+
+4. Start the server and navigate to the application:
+   
+   http://localhost/projectv1
    ```
-   http://localhost/your-project-folder
-   ```
+
+   
 
 ---
 
@@ -74,10 +101,10 @@ Username: teacher Password: teacher<br>
 
  <h1 > 📱 Screenshots</h1>
 
-
+<h2>🔓 LOGIN:</h2>
 <img width="702" alt="{22738DBE-D3B1-4537-ABF2-9D5BD1B3DACA}" src="https://github.com/user-attachments/assets/18dca815-f639-4ff3-bcd8-7d29e387118c">
 
-
+<h2>📔 ABOUT:</h2>
 <img width="697" alt="{AFCFD354-F2E7-41B2-889A-A7FB0EE98E47}" src="https://github.com/user-attachments/assets/479eb22c-15bc-47bb-a601-e317ee92f3c0">
 
 
@@ -103,6 +130,10 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 5. Open a pull request.
 
 ---
+<H1>🤝 Contributing</H1>
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+
 
 ## 📜 License
 
@@ -120,3 +151,6 @@ For questions or suggestions, feel free to reach out:
 - mizooooxkaddouri@gmail.com
 - GitHub: https://github.com/amine21benjah
 "project gestion des ecoles privee "
+
+<h1>👨‍💻 Author</h1>
+AMINE BENJAH | HAMZA KADDOURI | MOHANMED OUJAHAL | ISSAM OUBENAZHA
