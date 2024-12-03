@@ -153,4 +153,4 @@ For questions or suggestions, feel free to reach out:
 "project gestion des ecoles privee "
 
 <h1>👨‍💻 Author</h1>
-AMINE BENJAH | HAMZA KADDOURI | MOHANMED OUJAHAL | ISSAM OUBENAZHA
+AMINE BENJAH | HAMZA KADDOURI | MOHAMED OUJAHAL | ISSAM OUBENAZHA
