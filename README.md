@@ -1,8 +1,7 @@
 # My Project
 
 Welcome to **My Project**, a lightweight web application template designed to help you quickly build web-based tools or projects with a clean and simple interface.
-The JIRA ( Project / Modelisation diagrams / Sprints ) FOR MEMBERS 🔒:https://benjahamine7.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?selectedIssue=SCRUM-1
-A full-stack web application for Gestion Ecole ordering and management, built with PHP and MySQL.
+The JIRA ( Project / Modelisation diagrams / Sprints ) FOR MEMBERS 🔒: https://benjahamine7.atlassian.net/jira/software/projects/EG/list A full-stack web application for Gestion Ecole ordering and management, built with PHP and MySQL.
 
 ---
 
