@@ -68,7 +68,7 @@ The project's appearance is managed through the `style.css` file. Key features i
 
 To customize the appearance, edit `style.css` to adjust the layout, colors, or fonts.
 
-📱 <h1>Screenshots</h1>
+ <h1 > 📱 Screenshots</h1>
 
 
 <img width="702" alt="{22738DBE-D3B1-4537-ABF2-9D5BD1B3DACA}" src="https://github.com/user-attachments/assets/18dca815-f639-4ff3-bcd8-7d29e387118c">
