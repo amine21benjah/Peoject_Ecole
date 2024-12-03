@@ -17,8 +17,8 @@ A full-stack web application for Gestion Ecole ordering and management, built wi
 
 ## 📁 Project Structure
 
-├── data.sql        # Database file
-├── index.php       # Main entry point of the application
+├── data.sql        # Database file<br>
+├── index.php       # Main entry point of the application<br>
 ├── style.css       # Core stylesheet for styling the interface
 ```
 
