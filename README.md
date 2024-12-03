@@ -67,6 +67,10 @@ The project's appearance is managed through the `style.css` file. Key features i
 - **Interactive Buttons**: Styled with hover effects for enhanced user interaction.
 
 To customize the appearance, edit `style.css` to adjust the layout, colors, or fonts.
+<h1>👤 Default Admin Credentials</h1>
+Username: admin Password: admin
+Username: student Password: student
+Username: teacher Password: teacher
 
  <h1 > 📱 Screenshots</h1>
 
